@@ -1,0 +1,12 @@
+.area{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-radius: 1%;
+
+
+     
+}
